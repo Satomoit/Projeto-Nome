@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1743758980 source:c:\faculdade projetos\projeto nome modelagem\projeto-nome\main.cpp
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1426360528 c:\users\josfa\downloads\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1426360528 c:\users\josfa\downloads\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
